@@ -11,12 +11,12 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "nesbot/carbon": "^2.32.0",
-        "illuminate/http": "5.8|6.*|7.*|8.*",
-        "illuminate/support": "5.8|6.*|7.*|8.*",
-        "illuminate/view": "5.8|6.*|7.*|8.*",
-        "illuminate/pagination": "5.8|6.*|7.*|8.*",
-        "illuminate/validation": "5.8|6.*|7.*|8.*",
+        "nesbot/carbon": "^3.5.0",
+        "illuminate/http": "5.8|6.*|7.*|8.*|9.*|10.*|11.*",
+        "illuminate/support": "5.8|6.*|7.*|8.*|9.*|10.*|11.*",
+        "illuminate/view": "5.8|6.*|7.*|8.*|9.*|10.*|11.*",
+        "illuminate/pagination": "5.8|6.*|7.*|8.*|9.*|10.*|11.*",
+        "illuminate/validation": "5.8|6.*|7.*|8.*|9.*|10.*|11.*",
         "laravelcollective/html": "5.8|6.*",
         "laravel/helpers": "^1.3"
     },
